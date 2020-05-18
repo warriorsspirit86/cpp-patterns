@@ -4,4 +4,4 @@ project(cpp_patterns)
 set(CMAKE_CXX_STANDARD 20)
 
 ## add_executable(cpp_patterns proxy.cpp template.cpp)
-add_executable(cpp_patterns template.cpp)
+add_executable(pattern observer.cpp)
